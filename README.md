@@ -1,13 +1,18 @@
-Project 1: NumbersView
+# Welcome to NumbersView and Top Products Web Application
 
-Description:
-This project implements a Django view called NumbersView, which fetches numbers from various test servers, maintains a window of the last 10 fetched numbers for each type, and calculates the average of the numbers in the window.
+## NumbersView
 
-Setup Instructions:
+### Description
 
-Ensure you have Django installed. If not, you can install it using pip:
+NumbersView is a Django project that fetches numbers from various test servers, maintains a window of the last 10 fetched numbers for each type, and calculates the average of the numbers in the window.
 
-pip install django
+### Setup Instructions
+
+1. Ensure Django is installed:
+
+   ```bash
+   pip install django
+
 Clone the project repository from GitHub Repository Link or download the project zip file.
 
 Start the Django development server by running:
