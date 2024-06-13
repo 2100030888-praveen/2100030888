@@ -21,6 +21,11 @@ Navigate to the appropriate URL endpoint (http://localhost:9876/numbers/<numberi
 The response will include the fetched numbers, the previous state of the window, the current state of the window, and the average of the numbers in the window.
 Ensure that the response time does not exceed 500 milliseconds.
 
+![even_number](https://github.com/2100030888-praveen/2100030888/assets/110281775/cb0bc421-f507-4eb2-823c-e4363db145e8)
+![fibo](https://github.com/2100030888-praveen/2100030888/assets/110281775/00233db3-3227-4170-ab58-2850219df9b0)
+![prime](https://github.com/2100030888-praveen/2100030888/assets/110281775/c043968c-84a6-4ea8-a1c8-c714e9012950)
+![random number](https://github.com/2100030888-praveen/2100030888/assets/110281775/1927b234-096e-462b-a77f-822b231ddd0a)
+
 
 # Django Project - Project 2
 
@@ -70,3 +75,8 @@ sortBy: Sorting parameter (default: 'price').
 order: Sorting order ('asc' or 'desc', default: 'asc').
 Example request:
 http://127.0.0.1:9876/companies/AMZ/categories/Laptop/products?top=10&minPrice=1&maxPrice=10000
+
+![price](https://github.com/2100030888-praveen/2100030888/assets/110281775/a63cdf0d-dd42-433d-a643-89e7f21f2843)
+![price1](https://github.com/2100030888-praveen/2100030888/assets/110281775/9b5d6dcc-f5b5-4d82-aee9-c3371cd67413)
+![web_price](https://github.com/2100030888-praveen/2100030888/assets/110281775/290c2c1f-bfa5-4e15-a73a-ae7a456814ad)
+
